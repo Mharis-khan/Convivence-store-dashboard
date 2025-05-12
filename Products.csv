@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+1,Product_1,Sports,124.31
+2,Product_2,Beauty,343.22
+3,Product_3,Home & Kitchen,306.95
+4,Product_4,Beauty,417.43
+5,Product_5,Beauty,90.82
+6,Product_6,Clothing,198.58
+7,Product_7,Home & Kitchen,95.21
+8,Product_8,Home & Kitchen,378.9
+9,Product_9,Home & Kitchen,215.45
+10,Product_10,Beauty,107.93
+11,Product_11,Sports,286.01
+12,Product_12,Home & Kitchen,20.5
+13,Product_13,Beauty,421.93
+14,Product_14,Clothing,227.63
+15,Product_15,Sports,200.6
+16,Product_16,Clothing,463.7
+17,Product_17,Sports,365
+18,Product_18,Beauty,166.64
+19,Product_19,Electronics,287.37
+20,Product_20,Sports,262.81
+21,Product_21,Clothing,480.78
+22,Product_22,Beauty,423.04
+23,Product_23,Sports,374.92
+24,Product_24,Electronics,272.15
+25,Product_25,Electronics,295.44
+26,Product_26,Home & Kitchen,482.8
+27,Product_27,Home & Kitchen,305.48
+28,Product_28,Clothing,141.62
+29,Product_29,Sports,151.66
+30,Product_30,Sports,86.81
+31,Product_31,Home & Kitchen,12.74
+32,Product_32,Sports,214.58
+33,Product_33,Sports,200.47
+34,Product_34,Electronics,150.28
+35,Product_35,Home & Kitchen,11.97
+36,Product_36,Beauty,103.43
+37,Product_37,Home & Kitchen,357.11
+38,Product_38,Beauty,396.14
+39,Product_39,Electronics,304.95
+40,Product_40,Clothing,463.52
+41,Product_41,Sports,327.28
+42,Product_42,Electronics,457.91
+43,Product_43,Sports,425.77
+44,Product_44,Clothing,227.48
+45,Product_45,Clothing,52.23
+46,Product_46,Electronics,188.56
+47,Product_47,Clothing,336.08
+48,Product_48,Beauty,334.63
+49,Product_49,Clothing,297.69
+50,Product_50,Sports,140.99

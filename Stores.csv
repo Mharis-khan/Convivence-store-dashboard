@@ -1,0 +1,21 @@
+StoreID,StoreName,City,StoreType
+1,Store_1,Los Angeles,Standalone
+2,Store_2,Los Angeles,Online
+3,Store_3,New York,Standalone
+4,Store_4,Houston,Standalone
+5,Store_5,Los Angeles,Outlet
+6,Store_6,Chicago,Mall
+7,Store_7,Houston,Online
+8,Store_8,Phoenix,Outlet
+9,Store_9,New York,Outlet
+10,Store_10,Phoenix,Online
+11,Store_11,Houston,Standalone
+12,Store_12,Houston,Outlet
+13,Store_13,Houston,Standalone
+14,Store_14,Phoenix,Mall
+15,Store_15,Houston,Standalone
+16,Store_16,Phoenix,Mall
+17,Store_17,Houston,Standalone
+18,Store_18,Chicago,Outlet
+19,Store_19,Houston,Outlet
+20,Store_20,Phoenix,Mall

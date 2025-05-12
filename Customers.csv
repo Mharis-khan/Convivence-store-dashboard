@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Segment,Region
+1,Customer_1,Home Office,North
+2,Customer_2,Consumer,South
+3,Customer_3,Home Office,North
+4,Customer_4,Consumer,West
+5,Customer_5,Home Office,South
+6,Customer_6,Corporate,West
+7,Customer_7,Home Office,North
+8,Customer_8,Consumer,North
+9,Customer_9,Consumer,West
+10,Customer_10,Corporate,East
+11,Customer_11,Home Office,East
+12,Customer_12,Home Office,North
+13,Customer_13,Corporate,North
+14,Customer_14,Home Office,East
+15,Customer_15,Home Office,East
+16,Customer_16,Consumer,West
+17,Customer_17,Home Office,West
+18,Customer_18,Home Office,East
+19,Customer_19,Corporate,West
+20,Customer_20,Corporate,West
+21,Customer_21,Small Business,South
+22,Customer_22,Consumer,West
+23,Customer_23,Home Office,North
+24,Customer_24,Home Office,West
+25,Customer_25,Small Business,West
+26,Customer_26,Home Office,East
+27,Customer_27,Consumer,North
+28,Customer_28,Small Business,West
+29,Customer_29,Consumer,West
+30,Customer_30,Small Business,South
+31,Customer_31,Small Business,West
+32,Customer_32,Corporate,West
+33,Customer_33,Consumer,South
+34,Customer_34,Home Office,East
+35,Customer_35,Home Office,West
+36,Customer_36,Consumer,South
+37,Customer_37,Home Office,North
+38,Customer_38,Home Office,East
+39,Customer_39,Consumer,North
+40,Customer_40,Small Business,North
+41,Customer_41,Consumer,South
+42,Customer_42,Small Business,West
+43,Customer_43,Home Office,South
+44,Customer_44,Home Office,South
+45,Customer_45,Home Office,South
+46,Customer_46,Corporate,South
+47,Customer_47,Small Business,East
+48,Customer_48,Corporate,West
+49,Customer_49,Corporate,North
+50,Customer_50,Consumer,North
+51,Customer_51,Corporate,West
+52,Customer_52,Consumer,North
+53,Customer_53,Consumer,West
+54,Customer_54,Corporate,North
+55,Customer_55,Small Business,South
+56,Customer_56,Small Business,North
+57,Customer_57,Small Business,West
+58,Customer_58,Small Business,West
+59,Customer_59,Small Business,West
+60,Customer_60,Corporate,West
+61,Customer_61,Corporate,West
+62,Customer_62,Home Office,East
+63,Customer_63,Small Business,East
+64,Customer_64,Corporate,North
+65,Customer_65,Home Office,West
+66,Customer_66,Small Business,North
+67,Customer_67,Consumer,West
+68,Customer_68,Home Office,West
+69,Customer_69,Corporate,East
+70,Customer_70,Consumer,East
+71,Customer_71,Consumer,South
+72,Customer_72,Consumer,East
+73,Customer_73,Home Office,South
+74,Customer_74,Corporate,South
+75,Customer_75,Consumer,South
+76,Customer_76,Small Business,South
+77,Customer_77,Consumer,South
+78,Customer_78,Consumer,North
+79,Customer_79,Home Office,East
+80,Customer_80,Home Office,South
+81,Customer_81,Corporate,West
+82,Customer_82,Small Business,East
+83,Customer_83,Home Office,East
+84,Customer_84,Consumer,South
+85,Customer_85,Corporate,North
+86,Customer_86,Consumer,South
+87,Customer_87,Consumer,North
+88,Customer_88,Home Office,West
+89,Customer_89,Corporate,East
+90,Customer_90,Small Business,West
+91,Customer_91,Small Business,North
+92,Customer_92,Home Office,North
+93,Customer_93,Home Office,West
+94,Customer_94,Corporate,North
+95,Customer_95,Small Business,West
+96,Customer_96,Small Business,East
+97,Customer_97,Small Business,West
+98,Customer_98,Consumer,East
+99,Customer_99,Small Business,West
+100,Customer_100,Consumer,North
+101,Customer_101,Corporate,West
+102,Customer_102,Consumer,North
+103,Customer_103,Corporate,West
+104,Customer_104,Small Business,West
+105,Customer_105,Small Business,South
+106,Customer_106,Corporate,North
+107,Customer_107,Home Office,South
+108,Customer_108,Corporate,North
+109,Customer_109,Home Office,South
+110,Customer_110,Consumer,East
+111,Customer_111,Consumer,West
+112,Customer_112,Consumer,North
+113,Customer_113,Small Business,North
+114,Customer_114,Consumer,West
+115,Customer_115,Home Office,North
+116,Customer_116,Consumer,North
+117,Customer_117,Corporate,South
+118,Customer_118,Corporate,North
+119,Customer_119,Small Business,East
+120,Customer_120,Corporate,East
+121,Customer_121,Home Office,West
+122,Customer_122,Consumer,North
+123,Customer_123,Small Business,West
+124,Customer_124,Consumer,East
+125,Customer_125,Consumer,North
+126,Customer_126,Home Office,North
+127,Customer_127,Corporate,West
+128,Customer_128,Corporate,East
+129,Customer_129,Consumer,North
+130,Customer_130,Small Business,West
+131,Customer_131,Corporate,East
+132,Customer_132,Small Business,West
+133,Customer_133,Corporate,South
+134,Customer_134,Small Business,North
+135,Customer_135,Home Office,South
+136,Customer_136,Small Business,East
+137,Customer_137,Home Office,South
+138,Customer_138,Home Office,South
+139,Customer_139,Small Business,East
+140,Customer_140,Home Office,West
+141,Customer_141,Consumer,South
+142,Customer_142,Home Office,West
+143,Customer_143,Corporate,South
+144,Customer_144,Small Business,West
+145,Customer_145,Consumer,East
+146,Customer_146,Small Business,South
+147,Customer_147,Corporate,East
+148,Customer_148,Corporate,South
+149,Customer_149,Corporate,East
+150,Customer_150,Home Office,East
+151,Customer_151,Home Office,South
+152,Customer_152,Small Business,South
+153,Customer_153,Small Business,South
+154,Customer_154,Consumer,North
+155,Customer_155,Consumer,West
+156,Customer_156,Small Business,North
+157,Customer_157,Home Office,North
+158,Customer_158,Corporate,East
+159,Customer_159,Small Business,South
+160,Customer_160,Consumer,West
+161,Customer_161,Home Office,East
+162,Customer_162,Small Business,North
+163,Customer_163,Small Business,South
+164,Customer_164,Home Office,East
+165,Customer_165,Small Business,South
+166,Customer_166,Home Office,East
+167,Customer_167,Corporate,South
+168,Customer_168,Home Office,North
+169,Customer_169,Home Office,West
+170,Customer_170,Home Office,North
+171,Customer_171,Small Business,West
+172,Customer_172,Small Business,South
+173,Customer_173,Home Office,East
+174,Customer_174,Small Business,North
+175,Customer_175,Consumer,West
+176,Customer_176,Consumer,North
+177,Customer_177,Small Business,West
+178,Customer_178,Small Business,North
+179,Customer_179,Home Office,West
+180,Customer_180,Corporate,West
+181,Customer_181,Small Business,South
+182,Customer_182,Consumer,West
+183,Customer_183,Home Office,South
+184,Customer_184,Small Business,West
+185,Customer_185,Consumer,East
+186,Customer_186,Consumer,East
+187,Customer_187,Corporate,East
+188,Customer_188,Home Office,West
+189,Customer_189,Home Office,South
+190,Customer_190,Corporate,South
+191,Customer_191,Corporate,West
+192,Customer_192,Home Office,East
+193,Customer_193,Home Office,East
+194,Customer_194,Small Business,South
+195,Customer_195,Small Business,East
+196,Customer_196,Corporate,North
+197,Customer_197,Small Business,South
+198,Customer_198,Consumer,East
+199,Customer_199,Small Business,South
+200,Customer_200,Small Business,North
